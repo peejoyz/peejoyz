@@ -1,7 +1,7 @@
 ![](assets/bg.gif)
 ### Hello all 👋
 
-# I'm Ayodeji (Peejoyz)&nbsp;![](assets/system.gif)
+# I'm Ayodeji (Peejoyz)&nbsp;<img src="/assets/system.gif" width="30px">
 
 <br>
 
@@ -13,7 +13,7 @@
 <br>
 
 ## 🚀 Languages, Skills and Tools:
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)
+![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![Github](https://img.icons8.com/color-glass/30/github.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
@@ -29,4 +29,5 @@
 <a href = "https://www.linkedin.com/in/peejoyz"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30px"/></a>
 <a href = "https://twitter.com/Iampeejoyz"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30px"/></a>
 <a href="https://www.github.com/peejoyz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+
 </p>
